@@ -1,4 +1,2 @@
 Jan Kwong
 A16792930
-
-main/.gitignore
